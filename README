@@ -1,2 +1,7 @@
 Основной использованный стэк: Uikit, Foundation, SDWebImage, TableView, URLSession
 Приложение получает данные из книги по апи https://gutendex.com
+Использована архитектура MVC
+Использован NavigationBar
+Использован TableView
+Кастомные ячейки
+Асинхронная загрузка
